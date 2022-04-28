@@ -1,5 +1,5 @@
 # Imports
-from privacy_histo import privacy
+from ppml_lab1.privacy_histo import privacy
 import random
 
 
